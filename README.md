@@ -8,5 +8,6 @@
 В результате проведенной работы разработан прототип программного продукта, состоящий из веб-клиент для и сервера для получения и отправки сообщений.
 Внедрение базы данных для хранения файлов.
 
+[Ссылка](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%B5%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2&rlz=1C1SQJL_ruRU970RU970&oq=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%B5%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2&aqs=chrome..69i57j0i512l2j0i22i30l7.3145j0j15&sourceid=chrome&ie=UTF-8) для получения ежей.
 
 ![hadgehog](https://user-images.githubusercontent.com/114687845/207909064-ad819206-55dc-4443-8a11-2002d2850253.jpg)

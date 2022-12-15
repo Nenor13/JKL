@@ -17,4 +17,5 @@
 
 [Ссылка](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%B5%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2&rlz=1C1SQJL_ruRU970RU970&oq=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%B5%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2&aqs=chrome..69i57j0i512l2j0i22i30l7.3145j0j15&sourceid=chrome&ie=UTF-8) для получения ежей.
 
-![hadgehog](https://user-images.githubusercontent.com/114687845/207909064-ad819206-55dc-4443-8a11-2002d2850253.jpg)
+<img src="https://user-images.githubusercontent.com/114687845/207914789-e25f3658-08e7-492f-ab76-c32fbd18e449.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="350" />
+

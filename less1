@@ -1,0 +1,47 @@
+BOOTSTRAP
+Winx/Tilda
+
+все что нужно для сайта:
+    snipets - шаблон документа
+    plugins:
+        LiveServer
+        
+        
+        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<base>
+    <h1>ВИКТОРИНА: КТО ХОЧЕТ СТАТЬ HTML МЕЙКЕРОМ</h1>
+    <h2>Выберите правильный вариант ответа:</h2>
+    <ul>
+        <li>Сегодня пятница</li>
+        <li>Вчера уже закончился 10 класс</li>
+        <li>Щавелевая кислота 2 составная</li>
+    </ul>
+    <form>
+        <p><input list="Vars" type="text" name="model" placeholder="Выберите правильный вар." /></p>
+        <p>
+            <button type="submit">Отправить</button>
+        </p>
+    </form>
+    <datalist id="Vars">
+        <option value="Сегодня пятница">
+        <option value="Вчера уже закончился 10 класс">
+        <option value="Щавелевая кислота 2 составная"></option>
+    </datalist>
+    </form>
+
+    <form action="img.jpg" width="300" height="150">
+    <a href="explain"><h2>Пояснение:</h2></a>
+    <div><img src ="sh0306.jpg" alt="Пояснение" /></div>
+    <iframe src="https://ru.wikipedia.org/wiki/%D0%A9%D0%B0%D0%B2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" width="550" height="500">
+    </iframe>
+
+</body>
+</html>

@@ -1,13 +1,3 @@
-BOOTSTRAP
-Winx/Tilda
-
-все что нужно для сайта:
-    snipets - шаблон документа
-    plugins:
-        LiveServer
-        
-        
-        
 <!DOCTYPE html>
 <html lang="en">
 <head>
